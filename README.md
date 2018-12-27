@@ -1,4 +1,5 @@
-# dog-app
+# dogdemo
+Sample dog demo app built in vue.js
 
 ## Project setup
 ```
@@ -25,5 +26,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
